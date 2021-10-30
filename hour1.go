@@ -1,4 +1,4 @@
-package _100HoursOfGo
+package _100HoursOfCode
 
 import (
 	"fmt"
