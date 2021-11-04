@@ -18,3 +18,6 @@
 
 # [Hour 6](hour6.go)
     Worked with maps in Golang and used buffio and os libraries and explored some of their functions
+
+# [Hour 7](hour7.go)
+    Explored IDE and setup learning and development environements, and bagged more learning resources
