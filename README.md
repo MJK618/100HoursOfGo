@@ -21,3 +21,6 @@
 
 # [Hour 7](hour7.go)
     Explored IDE and setup learning and development environements, and bagged more learning resources
+
+# [Hour 8](hour8.go)
+    Navigate through documentation, Read out specs and seek help using avaialable forums and documentation
