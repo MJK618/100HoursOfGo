@@ -24,3 +24,6 @@
 
 # [Hour 8](hour8.go)
     Navigate through documentation, Read out specs and seek help using avaialable forums and documentation
+
+# [Hour 9](hour9.go)
+    Keywords, Operators, Statements, Scopes and Declaration of Variables
