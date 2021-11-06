@@ -30,3 +30,6 @@
 
 # [Hour 10](hour10.go)
     Types, zero values, creating own types and fmt package (Printf, Sprintf, Fprintf)
+
+# [Hour 11](hour11.go)
+    Practice Excercises of topics covered in hour 9 and 10 along with a small graded quiz for the same
