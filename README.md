@@ -27,3 +27,6 @@
 
 # [Hour 9](hour9.go)
     Keywords, Operators, Statements, Scopes and Declaration of Variables
+
+# [Hour 10](hour10.go)
+    Types, zero values, creating own types and fmt package (Printf, Sprintf, Fprintf)
