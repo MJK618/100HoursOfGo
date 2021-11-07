@@ -33,3 +33,6 @@
 
 # [Hour 11](hour11.go)
     Practice Excercises of topics covered in hour 9 and 10 along with a small graded quiz for the same
+
+# [Hour 12](hour12.go)
+    Went through How Computers Work - the binary and history to look at what Golang is the way it is and revised Numeral Systems to convert numbers to binary
