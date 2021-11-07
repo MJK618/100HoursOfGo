@@ -2,7 +2,7 @@ package _100HoursOfGo
 
 import "fmt"
 
-func main() {
+func hour16() {
 	for i := 1; i <= 10000; i++ {
 		fmt.Print(i, ", ")
 		if i%25 == 0 {

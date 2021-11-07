@@ -1,5 +1,5 @@
 package _100HoursOfGo
 
-func main() {
+func hour15() {
 	//Flow Control from Golang Specs
 }
