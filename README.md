@@ -39,3 +39,6 @@
 
 # [Hour 13](hour13.go)
     Bool, int and string data types of Golang (via. Golang Specs)
+
+# [Hour 14](hour14.go)
+    Practised topics covered in Hour 12 and Hour 13 and attended a quiz for the same
