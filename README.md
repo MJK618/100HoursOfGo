@@ -42,3 +42,6 @@
 
 # [Hour 14](hour14.go)
     Practised topics covered in Hour 12 and Hour 13 and attended a quiz for the same
+
+# [Hour 15](hour15.go)
+    Read Golang Specs for Control Flow, For Loop, If else and switch case statements along with logical operators
