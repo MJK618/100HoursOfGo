@@ -1,4 +1,4 @@
-package _100HoursOfGo
+package FortHours1
 
 func hour8(){
 	//Read through documentation, both standard libraries and third party packages

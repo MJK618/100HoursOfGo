@@ -1,4 +1,4 @@
-package _100HoursOfGo
+package FortHours1
 
 import "fmt"
 const (

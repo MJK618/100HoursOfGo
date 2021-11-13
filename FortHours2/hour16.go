@@ -1,4 +1,4 @@
-package _100HoursOfGo
+package FortHours2
 
 import "fmt"
 
@@ -25,7 +25,7 @@ func hour16() {
 	}
 
 
-	i := 2012
+	i = 2012
 	for {
 		if i > 2021 {
 			break
@@ -35,7 +35,7 @@ func hour16() {
 	}
 
 
-	i := 10
+	i = 10
 	for {
 		if i > 100 {
 			break
