@@ -15,4 +15,7 @@
 Practised topics covered in Hour 17 attended a quiz for the same
 
 # [Hour 19](hour19.go)
-    Read Structs from Golang Specs
+Read Structs from Golang Specs
+
+# [Hour 20](hour20.go)
+Practised topics covered in Hour 19 attended a quiz for the same
