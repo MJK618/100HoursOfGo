@@ -3,7 +3,8 @@
 ## Second Fourteen Hours
 
 # [Hour 15](hour15.go)
-    Read Golang Specs for Control Flow, For Loop, If else and switch case statements along with logical operators
+    Read Golang Specs for Control Flow, For Loop, If else and 
+    switch case statements along with logical operators
 
 # [Hour 16](hour16.go)
     Practised topics covered in Hour 15 attended a quiz for the same
@@ -21,5 +22,10 @@
     Practised topics covered in Hour 19 attended a quiz for the same
 
 # [Hour 21](hour21.go)
-    Read Functions, Vardiac parameters, Methods, Defer and Syntax for the same from Golang Specs
+    Read Functions, Vardiac parameters, Methods, Defer and 
+    Syntax for the same from Golang Specs
 
+# [Hour 22](hour22.go)
+    Interfaces, Polymorphism, Anonymous function and 
+    func expressions, return a function, callbacks, 
+    closure and recursion from Golang Specs
