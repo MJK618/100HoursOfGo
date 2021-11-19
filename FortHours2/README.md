@@ -19,3 +19,7 @@
 
 # [Hour 20](hour20.go)
     Practised topics covered in Hour 19 attended a quiz for the same
+
+# [Hour 21](hour21.go)
+    Read Functions, Vardiac parameters, Methods, Defer and Syntax for the same from Golang Specs
+
